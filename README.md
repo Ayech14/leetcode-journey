@@ -21,7 +21,7 @@ A personal journey through **Data Structures, Algorithms, Python, and technical 
 
 ### Foundations
 
-- [ ] Arrays & Hashing
+- [x] Arrays & Hashing
 - [ ] Two Pointers
 - [ ] Sliding Window
 - [ ] Stack
@@ -48,9 +48,9 @@ A personal journey through **Data Structures, Algorithms, Python, and technical 
 | Difficulty | Solved |
 |:---:|:---:|
 | 🟢 Easy | **4** |
-| 🟡 Medium | **4** |
+| 🟡 Medium | **5** |
 | 🔴 Hard | **0** |
-| 🏆 **Total** | **8** |
+| 🏆 **Total** | **9** |
 <!-- PROGRESS:END -->
 ---
 
