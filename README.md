@@ -48,9 +48,9 @@ A personal journey through **Data Structures, Algorithms, Python, and technical 
 | Difficulty | Solved |
 |:---:|:---:|
 | 🟢 Easy | **7** |
-| 🟡 Medium | **11** |
+| 🟡 Medium | **12** |
 | 🔴 Hard | **3** |
-| 🏆 **Total** | **21** |
+| 🏆 **Total** | **22** |
 <!-- PROGRESS:END -->
 ---
 
