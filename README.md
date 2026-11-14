@@ -47,10 +47,10 @@ A personal journey through **Data Structures, Algorithms, Python, and technical 
 <!-- PROGRESS:START -->
 | Difficulty | Solved |
 |:---:|:---:|
-| 🟢 Easy | **7** |
+| 🟢 Easy | **8** |
 | 🟡 Medium | **16** |
 | 🔴 Hard | **4** |
-| 🏆 **Total** | **27** |
+| 🏆 **Total** | **28** |
 <!-- PROGRESS:END -->
 ---
 
